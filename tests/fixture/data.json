@@ -1,0 +1,72 @@
+{
+    "email" : "tarika+16@noumena.global",
+    "otp1" : "1",
+    "otp2" : "2",
+    "otp3" : "3",
+    "otp4" : "4",
+
+
+    "invalidEmail": "tarika+16@noumena.g",
+    "shortEmail" : "abc",
+
+    "invOtp1" : "4",
+    "emailLocator" : "input[data-test='EmailLoginForm-TextField']",
+
+    "shortName": "a",
+   
+    "longName": "sdadasdasdasdasdasdasdas",
+    
+    "incorrectNumber": "32",
+    "minReferralCode": "23",
+    "maxReferralCode": "342343",
+    "invalidCode": "####",
+
+
+    "autoActiveEmail": "testera+196@noumena.global",
+    "firstName": "Test",
+    "lastName": "User",
+
+
+    "projectNoumName": "Wow",
+
+
+    "textPost" : "Hey Everyone",
+    "addComment" : "Added a Comment",
+    "searchUser": "tarika+18@noumena.global",
+    "message" : "Hey how you doing",
+
+
+
+
+
+    "verifyMember": "Monster King",
+    "searchMember" : "Monster King",
+    "searchNoums": "BNNN",
+    "searchPost": "iftikar",
+
+
+    "editFirstName" : "Tarik",
+    "editLastName" : "QA Engineer",
+    "editTitle": "Senior QA Engineer",
+    "editAbout": "Hey Everyone Welcome to my Profile",
+
+
+
+    "projectPost": "New Post",
+
+    "nonEmail": "tarika+234@gmail.com",
+    "nonLastName": "Test",
+    "nonFirstName": "User"
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+}

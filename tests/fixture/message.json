@@ -1,0 +1,55 @@
+{
+    "errMsgForIncorrectNumber": "Incorrect phone number",
+    "errMsgForInvalidEmail" : "Please enter valid email.",
+    "errMsgForshortEmail": "Please use a valid email address (email@address.com)",
+    "signupHeaderText" : "Supercharge Your Business",
+    "errMsgFrEmptyField" : "Please complete this field.",
+    "errMsgForshortName": "This name seems too short",
+    "errMsgForLongName": "First name is too long",
+    "errMsgForMinCode": "Referral code should be a minimum 4 characters",
+    "errMsgForMaxCode": "Referral code should not exceed 5 characters",
+    "errMsgForInvalidCode": "Invalid referral code.",
+
+    "homeHelloText": "//span[contains(text(), 'Hello 👋')]",
+    "YourWorkYourWayHeaderText": "Your Workspace Your Way",
+    "WhatNewText": "What's New?",
+    "newNoumHeaderText": "New Noums - Recommended for You",
+
+    
+    "newNoumForYourHeader" : "New Noums for You",
+    "featureTab" : "Featured",
+    "mycircleTab" : "My Circle",
+    "popularTab" : "Popular",
+
+
+
+
+    "financeSolutionHeading": "(//span[contains(text(), 'Financial Solutions')])[1]",
+    "getCFOtext" : "(//span[contains(text(), 'CFO')])[1]",
+    "getCustomCapitalText" : "Custom Capital",
+    "getCaseStudyHeaderText": "Financing Case Studies",
+    "getLearnMoreHeader" : "Learn More - Join an Interest Group",
+    "getMoneyFeatureHeader" : "Money Features in the Noumena App",
+    "getBalanceModal" : "Your Token Balance",
+
+
+    "createPostToastMessage" : "New Post Published",
+    "reportPostToastMessage" : "Post is reported successfully",
+
+
+
+
+
+    "endEventToastMsg" : "The event has concluded.",
+    "shMessage" : "Hello",
+
+
+    "updateProfileToastMsg" : "Success: Changes saved successfully.",
+
+    "getPostToastMessage" : "New Post Published",
+
+    "inviteSentToastMessage" : "Invites sent!"
+
+
+
+}

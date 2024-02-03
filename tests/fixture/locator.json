@@ -1,0 +1,4 @@
+{
+    "locatorForSubmitBtn": "button[data-testid='submitBtn']",
+    "homeUrl" : "https://noumena-web-staging.web.app/"
+}
